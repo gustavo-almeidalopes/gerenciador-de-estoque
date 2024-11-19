@@ -16,6 +16,12 @@ Uma aplicação para gerenciar estoque de produtos, desenvolvida com Python util
 - **SQLite**
 - **Tkinter**
 
+## Captura de Tela
+
+Veja abaixo a interface gráfica do programa:
+
+![Interface do Programa](screenshot.png)
+
 ## Instalação e Uso
 
 1. Clone o repositório:
